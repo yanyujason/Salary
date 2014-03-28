@@ -2,7 +2,17 @@ require 'salary'
 
 describe 'Salary and Bonus' do
 
+
+
+
+
+
   subject {Salary.new}
+
+
+
+
+
 
   describe 'Basic calculation' do
 
